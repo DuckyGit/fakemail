@@ -1,7 +1,7 @@
 <?php
 
 
-define("PASSWORD","mahnamahna");
+define("PASSWORD","123456789");
 
 
 $validpw = false;
